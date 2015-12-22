@@ -1,3 +1,3 @@
 [submodule "egg"]
-	path = site-lisp/git/egg
+	path = lisp/git/egg
 	url = git@github.com:ki11men0w/egg.git
